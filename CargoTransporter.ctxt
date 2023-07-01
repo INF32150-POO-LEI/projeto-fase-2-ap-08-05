@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CargoTransporter
+comment0.text=\r\n\ Interface\ de\ todos\ os\ objetos\ que\ transportam\ carga\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=float\ getCapacity()
+comment1.text=\r\n\ Retorna\ a\ capacidade\ do\ transportador\ de\ carga\r\n\ @return\ Valor\ da\ capacidade\r\n
+comment2.params=
+comment2.target=float\ getObjectsWeight()
+comment2.text=\r\n\ Retorna\ o\ peso\ total\ da\ carga\r\n\ @return\ Peso\ total\ da\ carga\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getObjects()
+comment3.text=\r\n\ Retorna\ todos\ os\ objetos\ da\ carga\r\n\ @return\ Todos\ os\ objetos\ que\ pertecem\ \u00E0\ carga\r\n
+comment4.params=index
+comment4.target=java.lang.Object\ getObject(int)
+comment4.text=\r\n\ Retorna,\ caso\ exista,\ o\ objeto\ da\ carga\ no\ \u00EDndice\ fornecido\r\n\ @param\ index\ \u00EDndice\ do\ objeto\r\n\ @return\ Objeto\ no\ \u00EDndice\ fornecido,\ caso\ exista\r\n
+comment5.params=object
+comment5.target=boolean\ addObject(java.lang.Object)
+comment5.text=\r\n\ Adiciona\ um\ objeto\ \u00E0\ carga\r\n\ @param\ object\ objeto\ a\ adicionar\r\n\ @return\ Verdadeiro\ se\ o\ objeto\ foi\ adicionado\r\n
+comment6.params=object
+comment6.target=boolean\ removeObject(java.lang.Object)
+comment6.text=\r\n\ Remove\ um\ objeto\ da\ carga\r\n\ @param\ object\ objeto\ a\ remover\r\n\ @return\ Verdadeiro\ se\ o\ objeto\ foi\ removido\r\n
+numComments=7

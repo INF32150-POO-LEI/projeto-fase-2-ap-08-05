@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TowingVehicle
+comment0.text=\r\n\ Representa\ um\ reboque\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=grid\ position
+comment1.target=TowingVehicle(Grid,\ Vector)
+comment1.text=\r\n\ Construtor\ da\ TowingVehicle\r\n\ @param\ grid\ Grelha\ a\ que\ pertence\r\n\ @param\ position\ Posi\u00E7\u00E3o\ inicial\r\n
+comment2.params=
+comment2.target=boolean\ isCarrying()
+comment2.text=\r\n\ Obter\ informa\u00E7\u00E3o\ se\ o\ carro\ est\u00E1\ a\ transportar\ mercadoria\r\n\ @return\ Verdadeiro\ se\ est\u00E1\ a\ transportar\r\n
+comment3.params=trolley
+comment3.target=boolean\ attachTrolley(Trolley)
+comment3.text=\r\n\ Tenta\ anexar\ um\ carrinho\ de\ transporte\ a\ este\ reboque\r\n\ @param\ trolley\ Atrelado\ a\ anexar\r\n\ @return\ Verdadeiro\ caso\ bem\ sucedido\r\n
+comment4.params=
+comment4.target=boolean\ detachTrolley()
+comment4.text=\r\n\ Tenta\ desanexar\ um\ carrinho\ de\ transporte\ deste\ reboque\r\n\ @return\ Verdadeiro\ caso\ bem\ sucedido\r\n
+comment5.params=direction
+comment5.target=int\ move(Direction)
+comment6.params=
+comment6.target=void\ tick()
+numComments=7

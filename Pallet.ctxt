@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pallet
+comment0.text=\r\n\ Representa\ uma\ pallet\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Pallet()
+comment1.text=\r\n\ Construtor\ da\ Pallet\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getCardboardBoxes()
+comment2.text=\r\n\ Retorna\ as\ caixas\ de\ cart\u00E3o\r\n\ @return\ ArrayList\ de\ caixas\ de\ cart\u00E3o\r\n
+comment3.params=index
+comment3.target=CardboardBox\ getCardboardBox(int)
+comment3.text=\r\n\ Retorna\ a\ caixa\ de\ cart\u00E3o\ com\ o\ \u00EDndice\ fornecido,\ caso\ exista\r\n\ @param\ index\ \u00EDndice\ da\ caixa\r\n\ @return\ Caixa\ de\ cart\u00E3o\ com\ o\ \u00EDndice\ fornecido,\ caso\ exista,\ caso\ contr\u00E1rio,\ retorna\ null\r\n
+comment4.params=cardboardBox
+comment4.target=boolean\ addBox(CardboardBox)
+comment4.text=\r\n\ Tenta\ adicionar\ uma\ caixa\r\n\ @param\ cardboardBox\ caixa\ a\ adicionar\r\n\ @return\ Verdadeiro\ caso\ bem\ sucedido\r\n
+comment5.params=cardboardBox
+comment5.target=boolean\ removeBox(CardboardBox)
+comment5.text=\r\n\ Tenta\ remover\ a\ caixa\ fornecida\r\n\ @param\ cardboardBox\ caixa\ a\ remover\r\n\ @return\ Verdadeiro\ caso\ exista\ e\ tenha\ sido\ removida\r\n
+comment6.params=
+comment6.target=float\ getWeight()
+comment6.text=\r\n\ Retorna\ o\ peso\ total\ da\ caixa\ de\ cart\u00E3o\r\n\ @return\ Peso\ total\ da\ caixa\ de\ cart\u00E3o\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

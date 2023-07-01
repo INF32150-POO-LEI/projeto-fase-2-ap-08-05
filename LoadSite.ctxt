@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LoadSite
+comment0.text=\r\n\ Representa\ o\ objeto\ de\ um\ local\ entrega/recolha\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LoadSite()
+comment1.text=\r\n\ Construtor\ do\ LoadSite\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getProducts()
+comment2.text=\r\n\ Retorna\ os\ produtos\r\n\ @return\ ArrayList\ de\ produtos\r\n
+comment3.params=
+comment3.target=boolean\ hasProducts()
+comment3.text=\r\n\ Verifica\ se\ cont\u00E9m\ produtos\r\n\ @return\ Verdadeiro\ se\ cont\u00E9m\ produtos\r\n
+comment4.params=
+comment4.target=Product\ pickProduct()
+comment4.text=\r\n\ Remove\ e\ devolve\ o\ produto\ removido,\ caso\ um\ exista\r\n\ @return\ Produto,\ caso\ um\ exista\r\n
+comment5.params=product
+comment5.target=boolean\ deliverProduct(Product)
+comment5.text=\r\n\ Tenta\ receber\ um\ produto\r\n\ @param\ product\ produto\ a\ entregar\r\n\ @return\ Verdadeiro\ caso\ o\ produto\ tenha\ sido\ recebido\r\n
+numComments=6

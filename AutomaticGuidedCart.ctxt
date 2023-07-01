@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AutomaticGuidedCart
+comment0.text=\r\n\ Representa\ um\ carrinho\ guiado\ automaticamente\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=grid\ position
+comment1.target=AutomaticGuidedCart(Grid,\ Vector)
+comment1.text=\r\n\ Construtor\ de\ AutomaticGuidedCart\r\n\ @param\ grid\ grelha\ a\ que\ pertence\r\n\ @param\ position\ posi\u00E7\u00E3o\ inicial\r\n
+comment2.params=
+comment2.target=boolean\ isCarrying()
+comment2.text=\r\n\ Obter\ informa\u00E7\u00E3o\ se\ o\ carro\ est\u00E1\ a\ transportar\ mercadoria\r\n\ @return\ Verdadeiro\ se\ est\u00E1\ a\ transportar\r\n
+comment3.params=
+comment3.target=float\ getCapacity()
+comment4.params=
+comment4.target=float\ getObjectsWeight()
+comment5.params=
+comment5.target=java.util.ArrayList\ getObjects()
+comment6.params=index
+comment6.target=Storage\ getObject(int)
+comment7.params=object
+comment7.target=boolean\ addObject(Storage)
+comment8.params=object
+comment8.target=boolean\ removeObject(Storage)
+comment9.params=
+comment9.target=void\ tick()
+numComments=10

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ErrorCode
+comment0.text=\r\n\ Representa\ o\ c\u00F3digo\ de\ erro\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

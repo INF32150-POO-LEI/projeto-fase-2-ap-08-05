@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tickable
+comment0.text=\r\n\ Interface\ de\ objetos\ que\ s\u00E3o\ parte\ da\ parte\ ativa\ da\ simula\u00E7\u00E3o\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ tick()
+comment1.text=\r\n\ Simula\ um\ passo\ de\ simula\u00E7\u00E3o\ deste\ objeto\r\n
+numComments=2

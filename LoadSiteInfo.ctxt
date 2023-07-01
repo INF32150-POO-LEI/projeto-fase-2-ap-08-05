@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LoadSiteInfo
+comment0.text=\r\n\ Representa\ a\ parte\ f\u00EDsica\ de\ um\ local\ de\ entrega/recolha\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=position\ loadArea
+comment1.target=LoadSiteInfo(Area,\ Area)
+comment1.text=\r\n\ Construtor\ de\ LoadSiteInfo\r\n\ @param\ position\ area\ ocupada\r\n\ @param\ loadArea\ area\ de\ Cargas\r\n
+comment2.params=
+comment2.target=Vector\ getLoadPosition()
+comment2.text=\r\n\ Retorna\ uma\ das\ posi\u00E7\u00F5es\ de\ carga\r\n\ @return\ Vetor\ da\ posi\u00E7\u00E3o\ de\ carga\r\n
+comment3.params=product
+comment3.target=Product\ getProduct(Product)
+comment3.text=\r\n\ Retorna\ um\ produto,\ fornecido\ o\ modelo\r\n\ @param\ product\ produto\ a\ obter\r\n\ @return\ Produto,\ caso\ exista\ um\ do\ mesmo\ modelo\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

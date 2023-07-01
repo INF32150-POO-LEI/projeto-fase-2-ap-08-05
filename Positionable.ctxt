@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Positionable
+comment0.text=\r\n\ Representa\ um\ objeto\ que\ tem\ posi\u00E7\u00E3o\ na\ grelha\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=grid\ position
+comment1.target=Positionable(Grid,\ Vector)
+comment1.text=\r\n\ Construtor\ de\ Positionable\r\n\ @param\ grid\ Grelha\ a\ que\ pertence\r\n\ @param\ position\ Posi\u00E7\u00E3o\ inicial\r\n
+comment2.params=
+comment2.target=Grid\ getGrid()
+comment2.text=\r\n\ Retorna\ a\ grelha\ a\ que\ pertence\r\n\ @return\ Grelha\ a\ que\ pertence\r\n
+comment3.params=
+comment3.target=Vector\ getPosition()
+comment3.text=\r\n\ Retorna\ a\ posi\u00E7\u00E3o\ que\ este\ objeto\ ocupa\ na\ grelha\r\n\ @return\ Vetor\ da\ posi\u00E7\u00E3o\ deste\ objeto\r\n
+comment4.params=position
+comment4.target=boolean\ setPosition(Vector)
+comment4.text=\r\n\ Tenta\ definir\ a\ posi\u00E7\u00E3o\ deste\ objeto\ na\ grelha\ para\ a\ posi\u00E7\u00E3o\ fornecida\r\n\ @param\ position\ posi\u00E7\u00E3o\ a\ definir\r\n\ @return\ Verdadeiro\ caso\ este\ objeto\ tenha\ sido\ movido\ com\ sucesso\r\n
+numComments=5

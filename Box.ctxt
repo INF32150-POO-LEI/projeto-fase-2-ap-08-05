@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ Representa\ uma\ caixa\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Box()
+comment1.text=\r\n\ Construtor\ da\ Box\r\n
+comment2.params=product
+comment2.target=boolean\ addProduct(Product)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

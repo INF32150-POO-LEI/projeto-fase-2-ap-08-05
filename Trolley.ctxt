@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Trolley
+comment0.text=\r\n\ Representa\ um\ carrinho\ de\ transporte\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=grid\ position
+comment1.target=Trolley(Grid,\ Vector)
+comment1.text=\r\n\ Constructor\ do\ Trolley\r\n\ @param\ grid\ Grelha\ a\ que\ pertence\r\n\ @param\ position\ Posi\u00E7\u00E3o\ inicial\r\n
+comment2.params=
+comment2.target=float\ getCapacity()
+comment3.params=
+comment3.target=float\ getObjectsWeight()
+comment4.params=
+comment4.target=java.util.ArrayList\ getObjects()
+comment5.params=index
+comment5.target=Storage\ getObject(int)
+comment6.params=object
+comment6.target=boolean\ addObject(Storage)
+comment7.params=object
+comment7.target=boolean\ removeObject(Storage)
+numComments=8

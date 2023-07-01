@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProductType
+comment0.text=\r\n\ Representa\ os\ tipos\ de\ produtos\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=string
+comment1.target=ProductType\ getProductType(java.lang.String)
+comment1.text=\r\n\ Retorna\ um\ tipo\ de\ produto\ fornecido\ uma\ string\ do\ nome\r\n\ @param\ string\ String\ equivalente\ ao\ tipo\r\n\ @return\ Tipo\ de\ produto\ fornecida\ o\ nome\r\n
+numComments=2

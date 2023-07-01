@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Storage
+comment0.text=\r\n\ Representa\ um\ contentor\ gen\u00E9rico\ de\ produtos\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Storage()
+comment1.text=\r\n\ Construtor\ de\ Storage\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getProducts()
+comment2.text=\r\n\ Retorna\ os\ produtos\ nesta\ embalagem\r\n\ @return\ ArrayList\ de\ produtos\ nesta\ embalagem\r\n
+comment3.params=index
+comment3.target=Product\ getProduct(int)
+comment3.text=\r\n\ Obt\u00E9m\ o\ produto\ no\ \u00EDndice\ fornecido\ caso\ exista\r\n\ @param\ index\ \u00EDndice\ do\ produto\r\n\ @return\ Produto\ no\ \u00EDndice\ fornecido\ caso\ exista\r\n
+comment4.params=product
+comment4.target=boolean\ addProduct(Product)
+comment4.text=\r\n\ Tenta\ adicionar\ um\ produto\r\n\ @param\ product\ produto\ a\ adicionar\r\n\ @return\ Verdadeiro\ caso\ bem\ sucedido\r\n
+comment5.params=product
+comment5.target=boolean\ removeProduct(Product)
+comment5.text=\r\n\ Tenta\ remover\ um\ produto\ fornecido\ o\ produto\ a\ remover\r\n\ @param\ product\ produto\ a\ remover\r\n\ @return\ Verdadeiro\ caso\ bem\ sucedido\r\n
+comment6.params=
+comment6.target=float\ getWeight()
+comment6.text=\r\n\ Retorna\ o\ peso\ total\ da\ embalagem\r\n\ @return\ Peso\ total\ da\ embalagem\r\n
+numComments=7

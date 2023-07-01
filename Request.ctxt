@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Request
+comment0.text=\r\n\ Representa\ um\ pedido\ de\ transporte\ a\ ser\ honrado\ pelos\ ve\u00EDculos\ de\ transporte\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=source\ destination\ product
+comment1.target=Request(java.lang.Object,\ java.lang.Object,\ Product)
+comment1.text=\r\n\ Construtor\ de\ Request\r\n\ @param\ source\ Fonte\r\n\ @param\ destination\ Destino\r\n\ @param\ product\ Produto\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

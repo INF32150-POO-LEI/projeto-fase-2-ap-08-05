@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Area
+comment0.text=\r\n\ Representa\ uma\ \u00E1rea\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=a\ b
+comment1.target=Area(Vector,\ Vector)
+comment1.text=\r\n\ Construtor\ da\ Area\r\n\ @param\ a\ posi\u00E7\u00E3o\ inferior\ esquerda\r\n\ @param\ b\ posi\u00E7\u00E3o\ superior\ direita\r\n
+comment2.params=a
+comment2.target=boolean\ isWithin(Vector)
+comment2.text=\r\n\ Testa\ se\ o\ vetor\ fornecido\ est\u00E1\ dentro\ da\ \u00E1rea\r\n\ @param\ a\ posi\u00E7\u00E3o\ a\ testar\r\n\ @return\ Verdadeiro\ se\ o\ vetor\ estiver\ dentro\ da\ \u00E1rea\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

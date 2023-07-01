@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DistributionCenterException
+comment0.text=\r\n\ Representa\ um\ erro\ do\ centro\ de\ distribui\u00E7\u00E3o\r\n\r\n\ @author\ 202200196\r\n\ @author\ 202200215\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=code
+comment1.target=DistributionCenterException(ErrorCode)
+comment1.text=\r\n\ Construtor\ do\ DistributionCenterException\r\n\ @param\ code\ c\u00F3digo\ do\ erro\r\n
+comment2.params=code
+comment2.target=ErrorCode\ validateCode(ErrorCode)
+comment3.params=
+comment3.target=ErrorCode\ getCode()
+comment3.text=\r\n\ Retorna\ o\ c\u00F3digo\ do\ erro\r\n\ @return\ C\u00F3digo\ do\ erro\r\n
+numComments=4
